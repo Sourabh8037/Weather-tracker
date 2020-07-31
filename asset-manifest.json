@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather-tracker/static/css/main.aacc8e88.chunk.css",
+    "main.js": "/Weather-tracker/static/js/main.82fc2605.chunk.js",
+    "main.js.map": "/Weather-tracker/static/js/main.82fc2605.chunk.js.map",
+    "runtime-main.js": "/Weather-tracker/static/js/runtime-main.1b33b096.js",
+    "runtime-main.js.map": "/Weather-tracker/static/js/runtime-main.1b33b096.js.map",
+    "static/js/2.b91fc6a4.chunk.js": "/Weather-tracker/static/js/2.b91fc6a4.chunk.js",
+    "static/js/2.b91fc6a4.chunk.js.map": "/Weather-tracker/static/js/2.b91fc6a4.chunk.js.map",
+    "index.html": "/Weather-tracker/index.html",
+    "precache-manifest.d1e8fccdcc304865b0a050af697a9784.js": "/Weather-tracker/precache-manifest.d1e8fccdcc304865b0a050af697a9784.js",
+    "service-worker.js": "/Weather-tracker/service-worker.js",
+    "static/css/main.aacc8e88.chunk.css.map": "/Weather-tracker/static/css/main.aacc8e88.chunk.css.map",
+    "static/js/2.b91fc6a4.chunk.js.LICENSE.txt": "/Weather-tracker/static/js/2.b91fc6a4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Weather-tracker/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b33b096.js",
+    "static/js/2.b91fc6a4.chunk.js",
+    "static/css/main.aacc8e88.chunk.css",
+    "static/js/main.82fc2605.chunk.js"
+  ]
+}
